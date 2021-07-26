@@ -1,0 +1,11 @@
+--2021-04-14 20:47:33--  http://localhost:8080/?code=4/0AY0e-g611I9iu5X7rgQpIBQYPvrqYItmptuXxzKUZfvmssZzTsfeFpE4rSvAqWD2c51U4g
+Resolving localhost (localhost)... 127.0.0.1
+Connecting to localhost (localhost)|127.0.0.1|:8080... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘index.html?code=4%2F0AY0e-g611I9iu5X7rgQpIBQYPvrqYItmptuXxzKUZfvmssZzTsfeFpE4rSvAqWD2c51U4g’
+
+               index.html?cod     [<=>                                               ]       0  --.-KB/s               index.html?code=4%2F0AY0e-g61     [ <=>                                              ]     120  --.-KB/s    in 0s      
+
+2021-04-14 20:47:33 (6.53 MB/s) - ‘index.html?code=4%2F0AY0e-g611I9iu5X7rgQpIBQYPvrqYItmptuXxzKUZfvmssZzTsfeFpE4rSvAqWD2c51U4g’ saved [120]
+
