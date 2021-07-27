@@ -1,4 +1,7 @@
-# Sample Code for Homework 1 ADL NTU 109 Spring
+# Hw1 
+
+## Goal
+Implement LSTM-based method to achieve intent classification and slot tagging.
 
 ## Environment
 ```shell
