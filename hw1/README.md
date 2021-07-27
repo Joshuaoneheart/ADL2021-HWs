@@ -23,3 +23,5 @@ bash preprocess.sh
 ```shell
 python train_intent.py
 ```
+## Reference
+[ntu-adl-ta/ADL21-HW1](https://github.com/ntu-adl-ta/ADL21-HW1)
