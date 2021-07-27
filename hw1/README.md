@@ -1,4 +1,4 @@
-# Hw1 
+# ADL 2020 Hw1 
 
 ## Goal
 Implement LSTM-based method to achieve intent classification and slot tagging.
