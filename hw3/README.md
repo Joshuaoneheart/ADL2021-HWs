@@ -3,7 +3,7 @@
 ## Goal
 Implement a T5(google/mt5) based method to achieve summarization task.  
 For more details, please view my report.  
-My report: https://drive.google.com/file/d/1pAeWGKQCzD8FrXTbti0BGa6jz71Sul5b/view?usp=sharing.
+My report: https://drive.google.com/file/d/1MMv3oCrnbiStsiz3xDWD9AQrgUFiE9BE/view?usp=sharing.
 
 ## Bonus
 Implement reinforcement learning to improve performance of summarization.
